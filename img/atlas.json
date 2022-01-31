@@ -1,0 +1,23 @@
+{"frames": {
+
+  "enemis":{
+      "count": 20
+  },
+  "bg.jpg":{
+      "frame": {"x":0,"y":0,"w":78,"h":79},
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {"x":0,"y":0,"w":78,"h":79},
+      "sourceSize": {"w":78,"h":79}
+  }
+},
+  "meta": {
+      "app": "https://www.codeandweb.com/texturepacker",
+      "version": "1.0",
+      "image": "atlas.png",
+      "format": "RGBA8888",
+      "size": {"w":318,"h":79},
+      "scale": "1",
+      "smartupdate": "$TexturePacker:SmartUpdate:936027cf215cc04584f310db437c7bda:89f02ad0272e438470bcd38e6e5046b9:cbce6b53f0f49e0bf15173c25c41f876$"
+  }
+}
